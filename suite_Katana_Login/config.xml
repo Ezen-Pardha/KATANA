@@ -1,0 +1,10 @@
+<testconfig version="1.0">
+    <information>
+        <summary/>
+        <description/>
+    </information>
+    <testsettings>
+        <breakOnFailure>true</breakOnFailure>
+    </testsettings>
+    <passwords/>
+</testconfig>

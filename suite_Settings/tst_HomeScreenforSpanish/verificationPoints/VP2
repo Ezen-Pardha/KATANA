@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VerificationPoint type="Screenshot" version="4">
+    <Description/>
+    <Verification object="frLeftButtons_lbText_QLabel" options="12" type="PNG">
+        iVBORw0KGgoAAAANSUhEUgAAALEAAAAqCAMAAADLVkp3AAAABlBMVEUAAAD///+l2Z/dAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABK0lEQVRYhe2Y2xLDIAhE4f9/uk+xuwtpmhlspOM+dIjXI0E0NftL+dD0aepGakXs3YgRdS5xldS3b3d7EFSiqR2HzWaljxNgwMsUiTGykmZeRiwuTh1KhsFvILZ3lXGX6JtCYtP04VkjKQMe7IaYU4npHUMbeQNhINcxcLXToyKZCivC/KOHazP0eRHyLWIK0IRZEzytpIqYU1Sw1TgjlmDSKUqJxwkCcJHYL4kFmfdiFXGWdsPEX8SxBAwFT62PT3ZK5uNL4mOV+drriM/Oq0h8nd2ckyMdNJXEW1tbW1vWLqm2Owe8I/HTCDfVDTi7MS29hPxGuTAyXnn5YVXh7Zc/oVaV3tfp34klRR8lm3iK+kbF2HlYuKQgBTchDifIUfY01wdBADch/oFe9k4ERoSf2moAAAAASUVORK5CYII=
+        <Mask/>
+    </Verification>
+</VerificationPoint>

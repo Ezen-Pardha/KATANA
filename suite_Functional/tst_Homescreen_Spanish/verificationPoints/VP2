@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VerificationPoint type="Screenshot" version="4">
+    <Description/>
+    <Verification object="frRightButtons_lbIcon_WdIcon_2" options="12" type="PNG">
+        iVBORw0KGgoAAAANSUhEUgAAALEAAAArCAMAAAAACpnSAAAABlBMVEUAAAD///+l2Z/dAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAnUlEQVRYhe3YQQrAIAxEUXP/S7eUYrVNTBeKMzB/GTcPyUIsRZ3Z3W7H/yReViW+xLD0x9iLYW+7Iq2pnaNlSbt9nzKwxBPiEyfk3To3OjC3OBiA5fhYxN4MjRzvLOo2D1gST0ri9Um8Pgtd8QlAngsWe+XosMGELyHu1yaHeASGJI/BgOQMLPGE+MR8P4WEv7FNwJsQJPH6+MSq6wABkwOUvT3uygAAAABJRU5ErkJggg==
+        <Mask/>
+    </Verification>
+</VerificationPoint>

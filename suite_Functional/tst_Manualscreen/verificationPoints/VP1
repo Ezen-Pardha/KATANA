@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VerificationPoint type="Screenshot" version="4">
+    <Description/>
+    <Verification object="wdPulseEnergyPickerWheel_btIncrease_WdPushButton" options="12" type="PNG">
+        iVBORw0KGgoAAAANSUhEUgAAAHEAAAClCAMAAABcD+LbAAAAKlBMVEUAAAAAmPIAmvUAn/0BAQECAgICesAChNAEBAQFBQUGBgYHBwcICAgKCgpNmuj8AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA00lEQVR4nO3cSQ6CUABEQRRQpn//6ypgIgvcOHTU1FuTFBCGXVdVpqbtxrIUApfaIS1ezbg4k1UJNXUL2efEUsb1IoPiSo5Jscw3touK03xbo+L8ZjRxsSISiUQikUgkEolEIpFIJBKJ3y+e600nIpFIJBKJxN8Uzzsdt+Jh74hXxPqpiEQikfio/Jd89yy24h/8H4lEIpFIJBLfE5FIJBKJRCKRSCQSiUQikUgkfkjMbiDkdx7iWxbxvY70Jsltd2VYn9dcbQmL6f2cti9B8b6DdAHhmjXZtJWCaAAAAABJRU5ErkJggg==
+        <Mask/>
+    </Verification>
+</VerificationPoint>

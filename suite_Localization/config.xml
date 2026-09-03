@@ -1,0 +1,15 @@
+<testconfig version="1.0">
+    <information>
+        <summary/>
+        <description/>
+    </information>
+    <testsettings>
+        <logScreenshotOnError>true</logScreenshotOnError>
+        <logScreenshotOnWarning>true</logScreenshotOnWarning>
+        <breakOnFailure>true</breakOnFailure>
+        <logScreenshotOnPass>true</logScreenshotOnPass>
+        <logScreenshotOnFail>true</logScreenshotOnFail>
+        <tesseract.psm>8</tesseract.psm>
+    </testsettings>
+    <passwords/>
+</testconfig>
